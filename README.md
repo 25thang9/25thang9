@@ -1,16 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there,%20I'm%20Thanh%20Thao!%20%F0%9F%91%8B&fontSize=45&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&customColorList=ffb6c1,ffc0cb,ffebcd&height=250&section=header&text=Hi%20there,%20I'm%20Thanh%20Thao!%20%F0%9F%91%8B&fontSize=45&fontAlignY=38" />
 </div>
 
-<h3 align="center">🎓 Physics-Informatics Student @ HCMUS | Hardware & Robotics Enthusiast 🤖</h3>
+<h3 align="center">🎓 Physics-Informatics Student @ HCMUS | Hardware & Automation</h3>
 
 ---
 
 ### 👩‍💻 Về bản thân
-* 🏫 Hiện đang là sinh viên chuyên ngành Vật lý Tin học, định hướng Hệ thống Phần cứng tại Trường Đại học Khoa học Tự nhiên TP.HCM.
-* ⚙️ Đam mê thiết kế điện tử số, vi điều khiển (ESP32) và nghiên cứu các hệ thống tự động hóa.
-* 🌱 Đang tập trung nghiên cứu và mô phỏng cơ cấu Robot nhảy một chân (3-DOF single-leg hopping robot) với Reinforcement Learning.
-* ♻️ Quan tâm đến phát triển bền vững và công nghệ xanh.
+* 🏫 Hiện là sinh viên chuyên ngành Vật lý Tin học, định hướng Hệ thống Phần cứng tại Trường Đại học Khoa học Tự nhiên TP.HCM (GPA: **8.74/10**).
+* 💼 Có kinh nghiệm thực tập tại bộ phận tự động hóa, trực tiếp tham gia phát triển phần mềm và các ứng dụng web.
+* ⚙️ Nắm vững kiến thức cơ bản về thiết kế điện tử số, lập trình vi điều khiển (ESP32) và hệ thống tự động.
+* 🌱 Đang tập trung nghiên cứu, gỡ lỗi và mô phỏng cơ cấu Robot nhảy một chân (3-DOF single-leg hopping robot) ứng dụng Reinforcement Learning.
+* 🌐 Ngoại ngữ: TOEIC 4 kỹ năng (Nghe - Đọc: **615** | Nói - Viết: **270**).
 
 ### 🛠️ Kỹ năng & Công cụ
 <div align="left">
@@ -23,7 +24,6 @@
 
 ### 🚀 Dự án nổi bật
 * **[Mô phỏng 3-DOF Single-leg Hopping Robot]** - Xây dựng cơ cấu, gỡ lỗi và mô phỏng động học hệ thống robot sử dụng MATLAB Simscape Multibody & SolidWorks.
-* **[Eco-composite Interior Wall Panel]** - Dự án vật liệu xanh tái chế từ rác thải hữu cơ (Tham gia thi Sáng tạo – Khởi nghiệp HCMUS I&E).
 * **[Pet Management System](https://github.com/25thang9/Pet-Management-System)** - Hệ thống quản lý thú cưng, Đồ án lập trình C++ với kiến trúc mô-đun.
 
 ### 📫 Liên hệ với mình
