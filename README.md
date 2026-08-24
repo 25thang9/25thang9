@@ -23,15 +23,6 @@
 </div>
 
 ### 🚀 Dự án nổi bật
-* **[Mô phỏng 3-DOF Single-leg Hopping Robot]** - Xây dựng cơ cấu, gỡ lỗi và mô phỏng động học hệ thống robot sử dụng MATLAB Simscape Multibody & SolidWorks.
+* **[Mô phỏng 3-DOF Single-leg Hopping Robot]** - Xây dựng cơ cấu, gỡ lỗi và mô phỏng động học hệ thống robot sử dụng MATLAB Simscape Multibody & SolidWorks. 
 * **[Pet Management System](https://github.com/25thang9/Pet-Management-System)** - Hệ thống quản lý thú cưng, Đồ án lập trình C++ với kiến trúc mô-đun.
 
-### 📫 Liên hệ với mình
-<p align="left">
-<a href="https://www.linkedin.com/in/thảo-vũ-434aa7296" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thanhthao" height="30" width="40" /></a>
-</p>
-
----
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=25thang9&show_icons=true&theme=radium&hide_border=true" alt="25thang9's GitHub stats" />
-</div>
