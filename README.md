@@ -7,8 +7,8 @@
 ---
 
 ### 👩‍💻 Về bản thân
-* 🏫 Hiện là sinh viên chuyên ngành Vật lý Tin học tại Trường Đại học Khoa học Tự nhiên TP.HCM (GPA: **8.74/10**).
-* 💼 Có kinh nghiệm thực tập tại bộ phận tự động hóa, trực tiếp tham gia phát triển phần mềm và các ứng dụng web.
+* 🏫 Hiện là sinh viên chuyên ngành Vật lý Tin học tại Trường Đại học Khoa học Tự nhiên TP.HCM (GPA: **8.91/10**).
+* 💼 Có kinh nghiệm thực tập tại bộ phận tự động hóa, tham gia phát triển phần mềm và các ứng dụng web.
 * ⚙️ Kiến thức cơ bản về thiết kế điện tử số, lập trình vi điều khiển (ESP32) và hệ thống tự động.
 * 🌱 Đang tập trung nghiên cứu, gỡ lỗi và mô phỏng cơ cấu Robot nhảy một chân (3-DOF single-leg hopping robot) ứng dụng Reinforcement Learning.
 * 🌐 Ngoại ngữ: TOEIC 4 kỹ năng (Nghe - Đọc: **615** | Nói - Viết: **270**).
