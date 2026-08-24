@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&customColorList=ffb6c1,ffc0cb,ffebcd&height=250&section=header&text=Hi%20there,%20I'm%20Thanh%20Thao!%20%F0%9F%91%8B&fontSize=45&fontAlignY=38" />
 </div>
 
-<h3 align="center">🎓 Physics-Informatics Student @ HCMUS | Hardware & Automation</h3>
+<h3 align="center">🎓 Physics and Computer Science Student @ HCMUS | Hardware & Automation</h3>
 
 ---
 
